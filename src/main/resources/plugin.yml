@@ -1,0 +1,7 @@
+name: DisableFly
+version: '${project.version}'
+main: me.smulan.disablefly.DisableFly
+api-version: '1.20'
+commands:
+  disablefly:
+    description: Disables fly on chosen player.
